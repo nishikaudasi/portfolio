@@ -1,0 +1,18 @@
+-- import:package/base-layout as layout
+-- import:package/header as navbar
+
+--layout.base-layout:
+--navbar.header:
+logo:$ assests.files.images.logo.svg
+logoUrl:/YOUR_REPO-NAME
+header-item1:Home
+header-item2:AboutMe
+header-item3:Contact us
+header-item4:Help
+header-item1-link:portfolio.
+header-item2-link:portfolio./AboutMe
+header-item3-link:portfolio./ContactUs
+header-item4-link:portfolio./Help
+
+
+--end:layout.base-layout:
